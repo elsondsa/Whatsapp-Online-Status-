@@ -30,6 +30,6 @@ This is semi-automated program, which involves one time scanning of the QR code 
 
 
 <details>
-           <summary>**Future Enhancement**</summary>
+           <summary>Future Enhancement</summary>
            <p>This program can be developed for mobile use. As the mobile app development involves separate environment it requires separate programming.</p>
 </details>
