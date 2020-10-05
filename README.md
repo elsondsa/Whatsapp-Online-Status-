@@ -28,8 +28,7 @@ This is semi-automated program, which involves one time scanning of the QR code 
 5. Successful execution is identified as user being online. 
 6. State values are to be stored, in order to display messages when state is changed. 
 
+### Future Enhancement
 
-<details>
-           <summary>Future Enhancement</summary>
-           <p>This program can be developed for mobile use. As the mobile app development involves separate environment it requires separate programming.</p>
-</details>
+This program can be developed for mobile use. As the mobile app development involves separate environment it requires separate programming.
+
